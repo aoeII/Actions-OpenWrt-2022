@@ -18,3 +18,4 @@
 # echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 echo 'src-git oaf https://github.com/destan19/OpenAppFilter' >>feeds.conf.default
 # echo 'src-git opentopd  https://github.com/sirpdboy/sirpdboy-package' >>feeds.conf.default
+git clone https://github.com/siropboy/sirpdboy-package package/sirpdboy
