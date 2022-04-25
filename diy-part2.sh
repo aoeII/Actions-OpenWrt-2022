@@ -21,7 +21,6 @@ rm -rf package/sirpdboy/default-settings
 rm -rf package/sirpdboy/autocore
 rm -rf package/sirpdboy/luci-app-cpufreq
 rm -rf package/sirpdboy/automount
-rm -rf package/sirpdboy/https-dns-proxy
 rm -rf package/sirpdboy/iptvhelper
 rm -rf package/sirpdboy/libtorrent-rasterbar
 rm -rf package/sirpdboy/luci-app-airwhu
