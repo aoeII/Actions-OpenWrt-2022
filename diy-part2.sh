@@ -48,7 +48,7 @@ rm -rf package/sirpdboy/luci-app-sqm
 rm -rf package/sirpdboy/luci-app-transmission
 rm -rf package/sirpdboy/luci-app-turboacc
 rm -rf package/sirpdboy/mentohust
-rm -rf package/sirpdboy/mwan3
+# rm -rf package/sirpdboy/mwan3
 rm -rf package/sirpdboy/netdata
 rm -rf package/sirpdboy/qbittorrent
 rm -rf package/sirpdboy/qBittorrent-Enhanced-Edition
