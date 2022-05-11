@@ -14,6 +14,7 @@
 #sed -i 's/192.168.1.1/192.168.50.5/g' package/base-files/files/bin/config_generate
 #rm -rf package/feeds/routing/olsrd/patches/012-gpsd.patch
 rm -rf package/feeds/packages/adguardhome
+git clone https://github.com/siropboy/sirpdboy-package package/sirpdboy
 rm -rf package/sirpdboy/aria2
 rm -rf package/sirpdboy/ariang
 rm -rf package/sirpdboy/autosamba
